@@ -1,0 +1,1 @@
+{{formAlwaysSession?.get('descriptionCommission').hasError('required')}}
